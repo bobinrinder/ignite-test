@@ -3873,6 +3873,10 @@ hyphenate-style-name@^1.0.1, hyphenate-style-name@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/hyphenate-style-name/-/hyphenate-style-name-1.0.2.tgz#31160a36930adaf1fc04c6074f7eb41465d4ec4b"
 
+i18n-js@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/i18n-js/-/i18n-js-3.0.2.tgz#d14cff2562758e7d30d34ddd58dd12d53fd07b5f"
+
 iconv-lite@0.4.11:
   version "0.4.11"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.11.tgz#2ecb42fd294744922209a2e7c404dac8793d8ade"
@@ -6405,6 +6409,12 @@ react-native-drawer-layout@1.3.2:
   resolved "https://registry.yarnpkg.com/react-native-drawer-layout/-/react-native-drawer-layout-1.3.2.tgz#b9740d7663a1dc4f88a61b9c6d93d2d948ea426e"
   dependencies:
     react-native-dismiss-keyboard "1.0.0"
+
+react-native-i18n@^2.0.10:
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/react-native-i18n/-/react-native-i18n-2.0.10.tgz#d22a6136abca1dee07c527f73cd805f9296bddc1"
+  dependencies:
+    i18n-js "^3.0.2"
 
 react-native-iphone-x-helper@^1.0.1:
   version "1.0.1"
